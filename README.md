@@ -8,7 +8,7 @@ Visit [Here](https://manuuux.github.io/Angular-local-crud/dist) to see a Live De
 
 ## RUN
 
-Run 'ng serve' to deploy to http://localhost:4200
+Run `ng serve` to deploy to http://localhost:4200
 
 ## Notes
 
